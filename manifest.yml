@@ -1,0 +1,9 @@
+applications:
+- path: /home/pipeline/775e7daa-660b-4e87-bf2d-ced1cf397f31/combined/target/devopsnapratica.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: devops-lala
+  host: devops-lala
+  disk_quota: 1024M
+
