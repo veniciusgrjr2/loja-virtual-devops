@@ -1,5 +1,5 @@
 applications:
-- path: /home/pipeline/624691bc-ba4d-4946-9010-f4c2940fbfd4/combined/target/devopsnapratica.war
+- path: site/target/devopsnapratica.war
   memory: 512M
   instances: 1
   domain: mybluemix.net
