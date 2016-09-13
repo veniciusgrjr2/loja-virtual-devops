@@ -6,4 +6,4 @@ applications:
   name: devops-lala
   host: devops-lala
   disk_quota: 1024M
-
+  buildpack: https://github.com/cloudfoundry/java-buildpack
